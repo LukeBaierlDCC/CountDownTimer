@@ -1,0 +1,10 @@
+E:\All back-up 2022 and beyond\Programs to program\Countdown Timer\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.csprojAssemblyReference.cache
+E:\All back-up 2022 and beyond\Programs to program\Countdown Timer\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.CountDownTimer.resources
+E:\All back-up 2022 and beyond\Programs to program\Countdown Timer\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.Properties.Resources.resources
+E:\All back-up 2022 and beyond\Programs to program\Countdown Timer\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.csproj.GenerateResource.cache
+E:\All back-up 2022 and beyond\Programs to program\Countdown Timer\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.csproj.CoreCompileInputs.cache
+E:\All back-up 2022 and beyond\Programs to program\Countdown Timer\CountdownTimer\CountdownTimer\bin\Debug\CountdownTimer.exe.config
+E:\All back-up 2022 and beyond\Programs to program\Countdown Timer\CountdownTimer\CountdownTimer\bin\Debug\CountdownTimer.exe
+E:\All back-up 2022 and beyond\Programs to program\Countdown Timer\CountdownTimer\CountdownTimer\bin\Debug\CountdownTimer.pdb
+E:\All back-up 2022 and beyond\Programs to program\Countdown Timer\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.exe
+E:\All back-up 2022 and beyond\Programs to program\Countdown Timer\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.pdb
